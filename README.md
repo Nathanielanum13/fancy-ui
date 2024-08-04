@@ -56,11 +56,11 @@ For detailed documentation and examples, please refer to the [Documentation](htt
 
 ## Contributing
 
-We welcome contributions to improve the framework. Please read our [Contributing Guidelines](CONTRIBUTION) before submitting a pull request.
+We welcome contributions to improve the framework. Please read our [Contributing Guidelines](CONTRIBUTION.md) before submitting a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 

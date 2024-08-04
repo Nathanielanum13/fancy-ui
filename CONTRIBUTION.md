@@ -44,7 +44,7 @@ Please follow the code style and formatting guidelines used in the project. Cons
 
 ### Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT). Please read it to understand the expectations for behavior when contributing to this project.
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the expectations for behavior when contributing to this project.
 
 ## Getting Help
 
