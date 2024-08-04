@@ -1,0 +1,5 @@
+.vscode
+.idea
+docs/.vitepress/dist/
+
+node_modules/
