@@ -1,5 +1,7 @@
 
-# UI Framework with Web Components
+# Fancy UI
+
+UI Framework with Web Components
 
 This framework provides a set of web components designed to simplify UI development with HTML, CSS, and JavaScript. It includes features that allow for minimal styles and markup, framework agnostic usage, and easy customization with fine-grain scoping.
 
@@ -65,3 +67,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## Contact
 
 For any questions or feedback, please reach out to [nathanielanum13@gmail.com].
+
+## Credit
+
+**Yehor**  
+[@maksimenko.egor](https://www.facebook.com/maksymenko.yehor/)  
+[Behance](https://www.behance.net/yehor_maksymenko)
