@@ -70,6 +70,7 @@ For any questions or feedback, please reach out to [nathanielanum13@gmail.com].
 
 ## Credit
 
-**Yehor**  
+**Yehor**
+[Figma Designs](https://www.figma.com/community/file/1070423037088494413)
 [@maksimenko.egor](https://www.facebook.com/maksymenko.yehor/)  
 [Behance](https://www.behance.net/yehor_maksymenko)
